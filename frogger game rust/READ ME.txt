@@ -1,0 +1,32 @@
+FROGGER GAME
+
+This repository contains a Rust implementation of the classic Frogger game. The project was built for learning purposes and utilizes Rust's powerful capabilities for game development.
+
+
+Features:
+
+Classic Frogger gameplay mechanics
+Developed in Rust
+Runs using Cargo
+Simple keyboard controls
+
+
+Prerequisites
+
+Before running the game, ensure you have the following installed:
+
+Rust & Cargo 
+
+VS Code (Optional) → Recommended for development
+
+
+
+Follow these steps to build and run the game:
+
+Make sure you are in the correct directory before running the game. You should be inside the Frogger Game Rust project folder.
+
+#Build the Project
+cargo build
+
+#Run the Game
+cargo run
